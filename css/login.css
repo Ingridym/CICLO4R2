@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://media.istockphoto.com/photos/cleaning-products-on-wooden-background-with-copyspace-in-the-middle-picture-id1091869702?k=20&m=1091869702&s=170667a&w=0&h=hMQgbcsnFHLdzXFGjRDwORMA0tnRPzjSGTsKsEwH26Y=);
+  background-size: cover;
+  height: 100vh;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 60px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #d3f8c3;
+  background-color: #eaeaea;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login
+  .container
+  #login-row
+  #login-column
+  #login-box
+  #login-form
+  #register-link {
+  margin-top: -85px;
+}
